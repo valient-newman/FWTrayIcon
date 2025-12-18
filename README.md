@@ -18,12 +18,12 @@
   
   © Fangorn Wizards Lab 1998 - 2005.
   
-  The component has realization issues for instance with hint display and      
-  the use of this component is on your own risk.                               
+  The component has realization issues for instance with hint display and the use of this component is on your own risk.                               
  
   The software is provided as is without any garanties and warranty.           
 
   
   This component can be freely used and distributed in commercial and private environments.
   
+
   Date last modified by Newman: December 18, 2025   
